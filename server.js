@@ -16,7 +16,6 @@ const runCLI = () => {
         "Update Employee Managers",
         "View Employees by Manager",
         "Delete departments, roles, and employees",
-        "View the total utilized budget by Department",
       ],
     })
     .then((answer) => {
@@ -43,10 +42,6 @@ const runCLI = () => {
 
         case "Delete departments, roles, and employees":
           deleteObject();
-          break;
-
-        case "View the total utilized budget by Department":
-          //songAndAlbumSearch();
           break;
 
         default:
