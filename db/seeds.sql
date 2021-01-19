@@ -18,5 +18,5 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("lisa"
 INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("hank", "jill", 6, 8);
 INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("tim", "thetoolman", 11, 12);
 INSERT INTO employee (first_name, last_name, role_id) VALUES ("mary", "smith", 4);
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("mary", "smith", 8);
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("mary", "smith", 12);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("doug", "smith", 8);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("tommy", "smith", 12);
