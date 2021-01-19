@@ -20,8 +20,9 @@ This project allows people who manage businesses to use a database to organize t
 1. Clone the Project from GitHub
 2. Open the project in the terminal of your choice and naviagate to the root project directory.
 3. Run NPM install to download all dependancies.
-4. Run the project with "node server.js"
-5. Follow the prompts.
+4. Navigate to ./employee_management_system/db/ and open schema.sql in the MySQL editor of your choice and execute the script. 
+5. Run the project with "node server.js"
+6. Follow the prompts.
 
 ## Usage
 
